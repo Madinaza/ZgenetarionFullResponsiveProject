@@ -4813,7 +4813,7 @@ a {
   .history {
     position: relative;
     overflow: hidden;
-    height: 130vh !important;
+    height: 1780px !important;
     width: 100%;
   }
   .history .historyPart {
@@ -6477,13 +6477,10 @@ a {
   position: relative;
   background-image: url("../images/Vectorr.png");
   background-color: #4D81CE;
-  overflow-y: hidden;
   background-size: 100% 180%;
-  background-size: cover;
   background-repeat: no-repeat;
   z-index: 10;
   height: 620px;
-  min-height: -webkit-fill-available;
 }
 
 .header .social-image {
