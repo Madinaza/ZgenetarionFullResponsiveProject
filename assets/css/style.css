@@ -8271,14 +8271,14 @@ a {
   font-weight: 100;
   color: #fff;
   font-family: Druk-Wide;
-  margin: 0 30px 30px 30px;
   position: relative;
+  left: 60px;
   top: 0px;
 }
 .history .morquee-w2 .morquee span .cf2 {
   width: 36px;
   height: 24px;
-  margin: 0 20px;
+  margin: 0 70px 0px 100px;
 }
 @keyframes morguee {
   0% {
